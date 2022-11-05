@@ -3,6 +3,8 @@ BTW I Use Arch
 
 Os: Arch | Nixos | Fedora
 
+Containers: Docker | Nix-shell 
+
 Programming Languages That I Use ➜
 Rust | Js | Php | Go | Nim | Python
 
