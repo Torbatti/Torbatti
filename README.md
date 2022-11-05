@@ -19,7 +19,7 @@ Russian | Chinese | Arabic
 
 
 LINKS ➜
-[Portfolio](http://torbatti.ir) |
-[Chessy](http://Chessy.ir) |
-[Hugo Static](https://torbatti.github.io/) |
+[My Static Site](https://torbatti.github.io/) |
 [Graphite Editor](https://graphite.rs/) |
+<!-- [Portfolio](http://torbatti.ir) | -->
+<!-- [Chessy](http://Chessy.ir) | -->
