@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi Its Me Arya ! 
+BTW I Use Arch
 
-<!--
-**Torbatti/torbatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Os: Arch | Nixos | Fedora
 
-Here are some ideas to get you started:
+Programming Languages That I Use ➜
+Rust | Js | Php | Go | Nim | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages That I wanna master ➜
+Rust | Nim | Go
+
+Languages That I Speak ➜
+Persian | English
+
+Languages That I wanna Learn ➜
+Russian | Chinese | Arabic
+
+
+LINKS ➜
+[Portfolio](http://torbatti.ir) |
+[Chessy](http://Chessy.ir) |
+[Hugo Static](https://torbatti.github.io/) |
+[Graphite Editor](https://graphite.rs/) |
