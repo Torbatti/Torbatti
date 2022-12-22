@@ -1,3 +1,3 @@
-[Mastodon@techhub.social@torbatti](https://techhub.social/@torbatti)
+[Mastodon@techhub.social](https://techhub.social/@torbatti)
 
-[Dev.to@Torbatti](https://dev.to/torbatti)
+[Dev.to](https://dev.to/torbatti)
