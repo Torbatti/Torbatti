@@ -5,7 +5,7 @@ Website: [torbatti.ir](https://torbatti.ir)
 Contact: [torbattii@gmail.com](mailto:torbattii@gmail.com)
 
 
-learning material:
+learning materials:
 - [datastructure](https://github.com/Torbatti/datastructure) - datastructures
 - [algorithm](https://github.com/Torbatti/algorithm) - algorithms
 - [network](https://github.com/Torbatti/network) - tcp/ip http
