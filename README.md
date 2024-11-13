@@ -9,7 +9,6 @@ learning materials:
 - [datastructure](https://github.com/Torbatti/datastructure) - datastructures
 - [algorithm](https://github.com/Torbatti/algorithm) - algorithms
 - [network](https://github.com/Torbatti/network) - tcp/ip http
-- [lisp](https://github.com/Torbatti/lisp) - write a lisp parser from scratch
 
 projects:
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
