@@ -12,3 +12,4 @@ learning materials:
 projects:
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
 - [Seeb](https://github.com/Torbatti/seeb) - Minecraft Server
+- [Kavir](https://github.com/Torbatti/kavir) - 
