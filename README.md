@@ -18,4 +18,4 @@ emulators:
 - [Nies](https://github.com/Torbatti/nies) - NES emulator
 
 games: 
-- [SSS](https://github.com/Torbatti/sss) - SSS: stone,shield and sword - medival rock paper scissor
+- [SSS](https://github.com/Torbatti/sss) - stone,shield and sword - medival rock paper scissor
