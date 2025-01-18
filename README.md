@@ -1,5 +1,7 @@
 Writing Bad Softwares Since 2014
 
+Love writing Go and Zig
+
 Website: [torbatti.ir](https://torbatti.ir)
 
 Contact: [torbattii@gmail.com](mailto:torbattii@gmail.com)
