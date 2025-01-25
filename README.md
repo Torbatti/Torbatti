@@ -15,7 +15,7 @@ projects:
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
 - [Seeb](https://github.com/Torbatti/seeb) - Minecraft Server
 - [Kavir](https://github.com/Torbatti/kavir) -
-- [Taagche](https://github.com/Torbatti/taagche) - Entertainment library
+- [Taag](https://github.com/Torbatti/taag) - Entertainment library
 
 emulators:
 - [Nies](https://github.com/Torbatti/nies) - NES emulator
