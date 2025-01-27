@@ -14,9 +14,11 @@ learn by looking at the code:
 projects:
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
 - [Seeb](https://github.com/Torbatti/seeb) - Minecraft Server
+<!--
 - [Kavir](https://github.com/Torbatti/kavir) -
-- [Taag](https://github.com/Torbatti/taag) - Entertainment library
-
+- [Taagh](https://github.com/Torbatti/taagh) - Entertainment library
+- [Keese](https://github.com/Torbatti/keese) - Entertainment library
+-->
 emulators:
 - [Nies](https://github.com/Torbatti/nies) - NES emulator
 - [CHIP-8](https://github.com/Torbatti/chip-8) - CHIP-8 emulator
