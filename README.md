@@ -4,7 +4,7 @@ Love writing Go and Zig
 
 Website: [torbatti.ir](https://torbatti.ir)
 
-Contact: [torbattii@gmail.com](mailto:torbattii@gmail.com)
+Email: [arya.bakh@0xab.ir](mailto:arya.bakh@0xab.ir)
 
 <!--
 learn by looking at the code:
