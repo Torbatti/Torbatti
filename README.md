@@ -2,7 +2,7 @@ Writing Bad Softwares Since 2014
 
 Love writing Go and Zig
 
-Website: [torbatti.ir](https://torbatti.ir)
+Website: [0xab.ir](https://0xab.ir)
 
 Email: [arya.bakh@0xab.ir](mailto:arya.bakh@0xab.ir)
 
