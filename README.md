@@ -15,7 +15,7 @@ learn by looking at the code:
 Shen Libraries:
 - [uuid.shen](https://github.com/Torbatti/uuid.shen)- cross language uuid library for c/zig/go
 
-projects:
+side-projects:
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
 - [Seeb](https://github.com/Torbatti/seeb) - Minecraft Server
 <!--
