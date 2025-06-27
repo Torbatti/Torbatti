@@ -10,14 +10,16 @@ Email: [arya.bakh@0xab.ir](mailto:arya.bakh@0xab.ir)
 learn by looking at the code:
 - [datastructure](https://github.com/Torbatti/datastructure) - datastructures
 - [algorithm](https://github.com/Torbatti/algorithm) - algorithms
--->
+
 
 Shen Libraries:
 - [uuid.shen](https://github.com/Torbatti/uuid.shen)- cross language uuid library for c/zig/go
+-->
+
 
 Side Projects:
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
-- [Seeb](https://github.com/Torbatti/seeb) - Minecraft Server
+- [Seeb](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
 <!--
 - [Kavir](https://github.com/Torbatti/kavir) -
 - [Taagh](https://github.com/Torbatti/taagh) - Entertainment library
