@@ -19,6 +19,8 @@ Shen Libraries:
 
 Side Projects:
 - [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
+- [SpinClerk](https://github.com/spinclerk/spinclerk) - Minecraft Tcp/Udp Tunnel over Tcp
+
 <!--
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
 - [Kavir](https://github.com/Torbatti/kavir) -
