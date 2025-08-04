@@ -19,7 +19,7 @@ Shen Libraries:
 
 Side Projects:
 - [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
-- [SpinClerk](https://github.com/spinclerk/spinclerk) - Minecraft Tcp/Udp Tunnel over Tcp And TCP/UDP Proxy
+- [SpinClerk](https://github.com/spinclerk/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
 - [Sanam](https://github.com/Torbatti/sanam) - Static Site Generator
 
 
