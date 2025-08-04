@@ -19,7 +19,7 @@ Shen Libraries:
 
 Side Projects:
 - [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
-- [SpinClerk](https://github.com/spinclerk/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
+- [SpinClerk](https://github.com/torbatti/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
 - [Sanam](https://github.com/Torbatti/sanam) - Static Site Generator
 
 
@@ -27,6 +27,7 @@ Side Projects:
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
 - [Kavir](https://github.com/Torbatti/kavir) -
 - [Taagh](https://github.com/Torbatti/taagh) - Entertainment library
+- [SpinClerk](https://github.com/spinclerk/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
 - [Keese](https://github.com/Torbatti/keese) - Entertainment library
 -->
 
