@@ -18,8 +18,9 @@ Shen Libraries:
 
 
 Side Projects:
-- [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
+- [Khoutsider](https://github.com/Torbatti/khoutsider) - a khinsider album song link finder 
 - [SpinClerk](https://github.com/torbatti/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
+- [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
 - [Sanam](https://github.com/Torbatti/sanam) - Static Site Generator
 
 
