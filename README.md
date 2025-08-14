@@ -2,7 +2,7 @@ Writing Bad Softwares Since 2014
 
 Love writing Go and Zig
 
-Website: [aryabakh.ir](https://aryabakh.ir/en)
+Website: [aryabakh.ir/en](https://aryabakh.ir/en)
 
 <!--
 learn by looking at the code:
