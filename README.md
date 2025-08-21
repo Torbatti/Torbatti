@@ -18,7 +18,7 @@ Shen Libraries:
 
 
 Side Projects:
-- [abb](https://github.com/Torbatti/abb) - collection of my c/c++ libraries
+- [ABB](https://github.com/Torbatti/abb) - collection of my c/c++ libraries
 - [Khoutsider](https://github.com/Torbatti/khoutsider) - a khinsider album song link finder 
 - [SpinClerk](https://github.com/torbatti/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
 - [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
