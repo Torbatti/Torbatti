@@ -21,9 +21,9 @@ Side Projects:
 - [ABB](https://github.com/Torbatti/abb) - collection of my c/c++ libraries
 - [Khoutsider](https://github.com/Torbatti/khoutsider) - a khinsider album song link finder 
 - [SpinClerk](https://github.com/torbatti/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
-- [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
-- [Sanam](https://github.com/Torbatti/sanam) - Static Site Generator
-
+- [Sanam.c](https://github.com/Torbatti/sanam.c) - Static Site Generator
+- [Taagak](https://github.com/Torbatti/taagak) - Entertainment library
+- [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation (on hold due to zig new io interface changes)
 
 <!--
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
