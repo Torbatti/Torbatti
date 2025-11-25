@@ -18,13 +18,14 @@ Shen Libraries:
 
 
 Side Projects:
-- [ABB](https://github.com/Torbatti/abb) - collection of my c/c++ libraries
 - [SpinClerk](https://github.com/torbatti/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
 - [Sanam.c](https://github.com/Torbatti/sanam.c) - Static Site Generator
 - [Taagak](https://github.com/Torbatti/taagak) - Entertainment library
-- [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation (on hold due to zig new io interface changes)
+- [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
+- [Chessy](https://github.com/Torbatti/chessy) - Chess projects as a mono-repo 
 
 <!--
+- [ABB](https://github.com/Torbatti/abb) - collection of my c/c++ libraries
 - [Khoutsider](https://github.com/Torbatti/khoutsider) - a khinsider album song link finder 
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
 - [Kavir](https://github.com/Torbatti/kavir) -
