@@ -14,13 +14,15 @@ learn by looking at the code:
 
 Shen Libraries:
 - [uuid.shen](https://github.com/Torbatti/uuid.shen)- cross language uuid library for c/zig/go
+
+- [SpinClerk](https://github.com/torbatti/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
+- [Sanam.c](https://github.com/Torbatti/sanam.c) - Static Site Generator
+- [Taagak](https://github.com/Torbatti/taagak) - Entertainment library
+
 -->
 
 
 Side Projects:
-- [SpinClerk](https://github.com/torbatti/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
-- [Sanam.c](https://github.com/Torbatti/sanam.c) - Static Site Generator
-- [Taagak](https://github.com/Torbatti/taagak) - Entertainment library
 - [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
 - [Chessy](https://github.com/Torbatti/chessy) - Chess projects as a mono-repo 
 
