@@ -23,8 +23,8 @@ Shen Libraries:
 
 
 Side Projects:
-- [Jangal](https://github.com/Torbatti/jangal) - Minecraft Server reImplementation
-- [Chessy](https://github.com/Torbatti/chessy) - Chess projects as a mono-repo 
+- [Jangal](https://github.com/Torbatti/jangal) - Minecraft projects mono-repo
+- [Chessy](https://github.com/Torbatti/chessy) - Chessy projects mono-repo 
 
 <!--
 - [ABB](https://github.com/Torbatti/abb) - collection of my c/c++ libraries
