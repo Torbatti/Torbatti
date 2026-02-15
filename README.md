@@ -19,12 +19,12 @@ Shen Libraries:
 - [Sanam.c](https://github.com/Torbatti/sanam.c) - Static Site Generator
 - [Taagak](https://github.com/Torbatti/taagak) - Entertainment library
 
--->
 
 
 Side Projects:
 - [Jangal](https://github.com/Torbatti/jangal) - Minecraft projects mono-repo
 - [Chessy](https://github.com/Torbatti/chessy) - Chessy projects mono-repo 
+-->
 
 <!--
 - [ABB](https://github.com/Torbatti/abb) - collection of my c/c++ libraries
