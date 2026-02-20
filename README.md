@@ -1,7 +1,27 @@
 Writing Bad Softwares Since 2014
-- [x11.c](https://github.com/Torbatti/x11.c)
+
+#### examples: platform layer [window,input and event handling,graphic context]
 - [win32.c](https://github.com/Torbatti/win32.c)
+- [x11.c](https://github.com/Torbatti/x11.c)
+
+<!-- 
 - [android.c](https://github.com/Torbatti/android.c)
+- [wasm.c](https://github.com/Torbatti/wasm.c)
+
+#### examples: io multiplexing
+- [select.c](https://github.com/Torbatti/select.c)
+- [poll.c](https://github.com/Torbatti/poll.c)
+- [epoll.c](https://github.com/Torbatti/epoll.c)
+- [iouring.c](https://github.com/Torbatti/iouring.c)
+- [kqueue.c](https://github.com/Torbatti/kqueue.c)
+- [iocp.c](https://github.com/Torbatti/iocp.c)
+
+#### examples: memory
+- [arena_alloc.c](https://github.com/Torbatti/arena_alloc.c)
+- [slab_alloc.c](https://github.com/Torbatti/slab_alloc.c)
+
+-->
+
 <!-- 
 - [wayland.c](https://github.com/Torbatti/wayland.c):
 - [azar.c](https://github.com/Torbatti/azar.c):
