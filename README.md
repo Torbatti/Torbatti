@@ -1,10 +1,11 @@
 Writing Bad Softwares Since 2014
-
-<!--
+- [x11.c](https://github.com/Torbatti/x11.c)
+- [win32.c](https://github.com/Torbatti/win32.c)
+- [android.c](https://github.com/Torbatti/android.c)
+<!-- 
+- [wayland.c](https://github.com/Torbatti/wayland.c):
+- [azar.c](https://github.com/Torbatti/azar.c):
 Website: [aryabakh.ir/en](https://aryabakh.ir/en)
--->
-
-<!--
 learn by looking at the code:
 - [datastructure](https://github.com/Torbatti/datastructure) - datastructures
 - [algorithm](https://github.com/Torbatti/algorithm) - algorithms
@@ -22,9 +23,6 @@ Shen Libraries:
 Side Projects:
 - [Jangal](https://github.com/Torbatti/jangal) - Minecraft projects mono-repo
 - [Chessy](https://github.com/Torbatti/chessy) - Chessy projects mono-repo 
--->
-
-<!--
 - [ABB](https://github.com/Torbatti/abb) - collection of my c/c++ libraries
 - [Khoutsider](https://github.com/Torbatti/khoutsider) - a khinsider album song link finder 
 - [Lilchessy](https://github.com/Torbatti/lilchessy) - Chess Engine
@@ -32,10 +30,6 @@ Side Projects:
 - [Taagh](https://github.com/Torbatti/taagh) - Entertainment library
 - [SpinClerk](https://github.com/spinclerk/spinclerk) - Minecraft Tcp/Udp Proxy and Tunnel over Tcp
 - [Keese](https://github.com/Torbatti/keese) - Entertainment library
--->
-
-
-<!--
 Emulators:
 - [Nies](https://github.com/Torbatti/nies) - NES emulator
 - [CHIP-8](https://github.com/Torbatti/chip-8) - CHIP-8 emulator
